@@ -1,0 +1,9 @@
+{
+  "name":"Tactical Programmer",
+  "short_name":"Tactical Programmer",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#0d1115",
+  "theme_color":"#101418",
+  "description":"Adaptive Hybrid/Operator tactical training programmer."
+}
