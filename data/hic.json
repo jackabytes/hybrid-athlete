@@ -1,0 +1,35 @@
+{
+  "description": "Metadata-based HIC library for app rotation.",
+  "sessions": [
+    {
+      "name": "Hill Intervals",
+      "modality": "run",
+      "stimulus": "speed/anaerobic power",
+      "impact": "high"
+    },
+    {
+      "name": "Shuttle Intervals",
+      "modality": "run",
+      "stimulus": "repeated acceleration",
+      "impact": "high"
+    },
+    {
+      "name": "Assault Bike Intervals",
+      "modality": "bike",
+      "stimulus": "hard repeat effort",
+      "impact": "high"
+    },
+    {
+      "name": "Rower Intervals",
+      "modality": "row",
+      "stimulus": "power-endurance",
+      "impact": "high"
+    },
+    {
+      "name": "Mixed Modal Sprint",
+      "modality": "mixed",
+      "stimulus": "general conditioning",
+      "impact": "high"
+    }
+  ]
+}

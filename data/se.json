@@ -1,0 +1,25 @@
+{
+  "description": "Metadata-based SE library for app rotation.",
+  "sessions": [
+    {
+      "name": "Full-body SE Circuit",
+      "stimulus": "strength endurance",
+      "impact": "high"
+    },
+    {
+      "name": "Lower-bias SE Circuit",
+      "stimulus": "leg endurance",
+      "impact": "high"
+    },
+    {
+      "name": "Upper-bias SE Circuit",
+      "stimulus": "upper-body endurance",
+      "impact": "high"
+    },
+    {
+      "name": "Loaded Carry Circuit",
+      "stimulus": "work capacity",
+      "impact": "medium"
+    }
+  ]
+}
